@@ -66,7 +66,7 @@ python example1.py
 Try solving practice problems to reinforce concepts.
 ```
 ---
-# Key Takeaways
+## Key Takeaways
 
 - Strong grasp of basics is critical for DSA & ML success
 
