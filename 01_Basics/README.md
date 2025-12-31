@@ -51,20 +51,24 @@ Here you will learn:
 
 ---
 
-## 📝 How to Use
+## 💻 How to Use
+
 1. Navigate to this folder:
+
 ```bash
 cd 01_Basics
 Open the topic markdown file you want to study:
 
-
+bash
+Copy code
 open Variables_and_DataTypes.md
 Run and experiment with the code in Basics_Code_Examples/:
 
-
+bash
+Copy code
 python example1.py
 Try solving practice problems to reinforce concepts.
-
+```
 ⚡ Key Takeaways
 Strong grasp of basics is critical for DSA & ML success
 
