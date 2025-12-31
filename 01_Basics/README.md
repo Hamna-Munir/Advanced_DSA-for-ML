@@ -55,7 +55,7 @@ Here you will learn:
 
 1. Navigate to this folder:
 
-# 01_Basics
+ 01_Basics
 Open the topic markdown file you want to study:
 
 open Variables_and_DataTypes.md
@@ -74,5 +74,5 @@ Writing clean, readable code from the start saves time later
 
 Complexity analysis helps you write efficient algorithms
 
-📌 Author
+ Author
 — Hamna Munir
