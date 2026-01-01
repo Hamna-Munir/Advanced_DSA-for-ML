@@ -1,6 +1,6 @@
 # Functions and Scope
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 Functions are **reusable blocks of code** designed to perform a specific task. Instead of repeating the same logic, functions allow you to write code once and use it multiple times.
 
 Scope defines **where a variable can be accessed** in a program. Understanding scope is critical for writing predictable, bug-free code—especially in Machine Learning pipelines where multiple components interact.
