@@ -118,7 +118,7 @@ Clean function design leads to modular and maintainable ML systems.
 
 5. Refactor repeated code into reusable functions
 
-c
+---
 
 **Author:**  
 Hamna Munir
