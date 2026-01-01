@@ -1,12 +1,12 @@
 # DSA-for-ML
 
-## 🚀 Overview
+##  Overview
 Welcome to **DSA-for-ML**, a comprehensive repository designed to teach **Data Structures & Algorithms (DSA)** with a focus on **Machine Learning applications**.  
 This repository is structured to help beginners and intermediate learners understand algorithms, implement them in code, and see how they can be applied in AI/ML workflows.
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Build a strong foundation in **DSA**.
 - Learn **code implementation** for all major data structures and algorithms.
 - Understand the **time and space complexity** of algorithms.
@@ -15,7 +15,7 @@ This repository is structured to help beginners and intermediate learners unders
 
 ---
 
-## 📚 Repository Structure
+##  Repository Structure
 
 ```
 DSA-for-ML/
