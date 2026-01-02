@@ -1,6 +1,6 @@
 # Complexity Analysis (Time and Space Complexity)
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 Complexity analysis helps us understand **how efficient an algorithm is**.
 
 It answers two key questions:
