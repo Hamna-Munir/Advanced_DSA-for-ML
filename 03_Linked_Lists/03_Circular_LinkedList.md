@@ -13,8 +13,8 @@ there is **no NULL at the end**.
 ## 2. Visual / Example
 
   ┌───────────────┐
-  
-  ▼               │
+                  |
+  ▼               
 
 [ Data | Next ] → [ Data | Next ] → [ Data | Next ]
 
