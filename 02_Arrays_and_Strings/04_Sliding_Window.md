@@ -1,6 +1,6 @@
 # Sliding Window Technique
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 The Sliding Window technique is used to **process a subset (window) of elements** in an array or string while moving the window forward step by step.
 
 Instead of recalculating values repeatedly, the window updates efficiently, making this technique ideal for **subarray and substring problems**.
