@@ -1,6 +1,6 @@
 # Strings
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 A string is a **sequence of characters** used to store and manipulate text data.  
 In most programming languages, strings are treated as arrays of characters, allowing indexed access and traversal.
 
