@@ -1,6 +1,6 @@
 # Singly Linked List
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 A Singly Linked List is a **linear data structure** where each element (node) contains:
 - Data
 - A reference (pointer) to the next node in the list
