@@ -92,7 +92,7 @@ Front after dequeue: 20
 ```
 ---
 
-##5. Common Interview Problems
+## 5. Common Interview Problems
 
 Frequently asked queue problems include:
 
@@ -110,7 +110,7 @@ These problems test understanding of FIFO behavior and real-time processing.
 
 ---
 
-##6. ML Connection
+## 6. ML Connection
 
 Queues are essential in ML systems for:
 
