@@ -78,7 +78,7 @@ print("Top priority:", pq.peek())
 print("Removed:", pq.pop())
 print("Next priority:", pq.peek())
 ```
-###Output
+### Output
 
 ```python
 Top priority: (1, 'Task B')
