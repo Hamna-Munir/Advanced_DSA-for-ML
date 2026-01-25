@@ -1,6 +1,6 @@
 # Stack
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 A Stack is a linear data structure that follows the principle:
 
 **LIFO — Last In, First Out**
@@ -20,7 +20,9 @@ Stacks are commonly used to manage:
 ## 2. Visual / Example
 
 Push → [ 10 ]
+
 [ 20 ]
+
 [ 30 ] ← Top
 
 
