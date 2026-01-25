@@ -107,7 +107,9 @@ Inorder Traversal (Sorted Order):
 
 Search for 60: Found
 ```
-5. Common Interview Problems
+---
+
+## 5. Common Interview Problems
 
 Frequently asked BST problems include:
 
