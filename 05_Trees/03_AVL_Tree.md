@@ -1,6 +1,6 @@
 # AVL Tree
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 An **AVL Tree** is a **self-balancing Binary Search Tree** (BST).  
 - Each node stores a key and maintains a **height** value.  
 - For every node, the **balance factor** (height of left subtree − height of right subtree) must be **-1, 0, or +1**.  
