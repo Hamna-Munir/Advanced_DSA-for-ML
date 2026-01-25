@@ -12,12 +12,13 @@ Binary trees are mainly used to represent hierarchical data and to support recur
 
 ## 2. Visual / Example
 
+```python
     1
    / \
   2   3
  / \
 4   5
-
+```
 
 Each node:
 - Stores a value  
