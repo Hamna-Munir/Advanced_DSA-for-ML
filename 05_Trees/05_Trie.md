@@ -1,6 +1,6 @@
 # Trie (Prefix Tree)
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 A **Trie** (also called a **Prefix Tree**) is a special **tree data structure** used to store and efficiently search **strings and prefixes**.
 
 - Each node represents a **character**
