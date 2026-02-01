@@ -147,7 +147,7 @@ g.add_edge(2, 3)
 
 g.display()
 ```
-Output
+### Output
 ```python
 0 -> [1, 2]
 1 -> [0, 3]
