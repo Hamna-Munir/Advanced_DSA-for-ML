@@ -1,6 +1,6 @@
 # Dijkstra’s Algorithm
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 **Dijkstra’s Algorithm** is a **shortest path algorithm** used to find the minimum distance from a **source node** to all other nodes in a **weighted graph**.
 
 Key points:
