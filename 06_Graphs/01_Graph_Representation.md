@@ -45,19 +45,19 @@ A 2D matrix where:
 - Columns = destination vertices
 
 Example graph:
-
+```python
 0 — 1
 |   |
 2 — 3
-
+```
 
 Adjacency Matrix:
-
+```python
 0 0 1 1 0
 1 1 0 0 1
 2 1 0 0 1
 3 0 1 1 0
-
+```
 
 **Pros**
 - Fast edge lookup O(1)
