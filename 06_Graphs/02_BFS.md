@@ -80,7 +80,7 @@ graph = {
 print("BFS Traversal:")
 bfs(graph, 0)
 ```
-Output
+### Output
 
 ```python
 BFS Traversal:
