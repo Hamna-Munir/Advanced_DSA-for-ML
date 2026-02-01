@@ -75,12 +75,12 @@ visited = set()
 print("DFS Traversal:")
 dfs(graph, 0, visited)
 ```
-Output
+### Output
 ```python
 DFS Traversal:
 0 1 3 2 4
 ```
-Iterative DFS (Using Stack)
+### Iterative DFS (Using Stack)
 ```python
 def dfs_iterative(graph, start):
     visited = set()
@@ -99,7 +99,7 @@ def dfs_iterative(graph, start):
 print("\nIterative DFS Traversal:")
 dfs_iterative(graph, 0)
 ```
-Output
+### Output
 ```python
 Iterative DFS Traversal:
 0 1 3 2 4
