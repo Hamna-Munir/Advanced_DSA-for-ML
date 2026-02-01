@@ -1,6 +1,6 @@
 # Graph Representation
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 A **Graph** is a data structure used to represent **relationships** between entities.
 
 A graph consists of:
@@ -47,7 +47,7 @@ A 2D matrix where:
 Example graph:
 
 0 — 1
-| |
+|   |
 2 — 3
 
 
