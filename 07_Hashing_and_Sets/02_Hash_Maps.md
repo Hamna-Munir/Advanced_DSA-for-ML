@@ -20,13 +20,17 @@ In Python, hash maps are implemented using **dictionaries**.
 Key–value pairs to store:
 
 "apple" → 3
+
 "banana" → 5
+
 "orange" → 2
 
 Internal mapping:
 
 hash("apple") → index 4 → value 3
+
 hash("banana") → index 1 → value 5
+
 hash("orange") → index 7 → value 2
 
 
