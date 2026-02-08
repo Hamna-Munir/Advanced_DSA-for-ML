@@ -28,7 +28,9 @@ index = key % 10
 Mapping:
 
 12 → 2
+
 22 → 2
+
 32 → 2
 
 
