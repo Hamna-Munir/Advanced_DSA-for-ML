@@ -1,6 +1,6 @@
 # Recursion
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 **Recursion** is a problem-solving technique where a function calls itself to solve smaller instances of the same problem.
 
 A recursive function has two essential parts:
