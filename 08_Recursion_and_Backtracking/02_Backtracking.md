@@ -24,6 +24,7 @@ Example: Generate permutations of `[1, 2]`
 Decision tree:
 
 Start
+
 ├── Choose 1 → [1]
 
 │ └── Choose 2 → [1, 2]
