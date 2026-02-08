@@ -1,6 +1,6 @@
 # Hash Maps
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 A **Hash Map** is a data structure that stores data as **key–value pairs**, allowing extremely fast lookup, insertion, and deletion.
 
 It works by using a **hash function** to convert a key into an index in a hash table. This allows direct access instead of searching through the entire dataset.
