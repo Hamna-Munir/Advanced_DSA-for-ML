@@ -1,6 +1,6 @@
 # Bubble Sort
 
-## 1. Concept Explanation (Simple English)
+## 1. Concept Explanation 
 
 **Bubble Sort** is one of the simplest sorting algorithms. It works by repeatedly comparing **adjacent elements** in a list and swapping them if they are in the wrong order.
 
@@ -20,14 +20,18 @@ Example array:
 Pass 1:
 
 5 > 1 → swap → [1,5,4,2,8]
+
 5 > 4 → swap → [1,4,5,2,8]
+
 5 > 2 → swap → [1,4,2,5,8]
+
 5 < 8 → no swap
 
 
 Pass 2:
 
 [1,4,2,5,8]
+
 4 > 2 → swap → [1,2,4,5,8]
 
 
