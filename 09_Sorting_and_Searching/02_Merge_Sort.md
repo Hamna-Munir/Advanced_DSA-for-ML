@@ -18,29 +18,29 @@ Merge Sort is widely used because its performance remains consistent even for la
 
 ## 2. Visual / Example
 
-Example array:
+### Example array:
 
 [8, 3, 5, 2]
 
 
-Step 1 — Divide
+### Step 1 — Divide
 
 [8, 3, 5, 2]
 
  /        \
 [8, 3]  [5, 2]
 
-Step 2 — Divide again
+### Step 2 — Divide again
 
 [8] [3] [5] [2]
 
 
-Step 3 — Merge sorted pairs
+### Step 3 — Merge sorted pairs
 
 [3, 8] [2, 5]
 
 
-Step 4 — Final merge
+### Step 4 — Final merge
 
 [2, 3, 5, 8]
 
@@ -55,7 +55,7 @@ Step 4 — Final merge
 | Average Case | O(n log n) |
 | Worst Case | O(n log n) |
 
-Space Complexity:
+### Space Complexity:
 
 O(n)
 
@@ -161,6 +161,7 @@ Frameworks handling large datasets often use algorithms similar to Merge Sort.
 5. Compare performance with Quick Sort
 
 Practicing these variations improves understanding of divide and conquer algorithms.
+
 ---
 
 **Author:**  
