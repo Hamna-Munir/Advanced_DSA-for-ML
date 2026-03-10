@@ -35,7 +35,7 @@ Text1 = "ABC"
 
 Text2 = "AC"
 
-Possible subsequences of `"ABC"`:
+### Possible subsequences of `"ABC"`:
 
 A
 
@@ -51,7 +51,7 @@ BC
 
 ABC
 
-Common subsequences with `"AC"`:
+### Common subsequences with `"AC"`:
 
 A
 
@@ -59,13 +59,13 @@ C
 
 AC
 
-The **Longest Common Subsequence** is:
+### The **Longest Common Subsequence** is:
 
 AC
 
 Length = **2**
 
-Dynamic Programming builds a table comparing characters from both strings.
+### Dynamic Programming builds a table comparing characters from both strings.
 
 Example DP table structure:
 
