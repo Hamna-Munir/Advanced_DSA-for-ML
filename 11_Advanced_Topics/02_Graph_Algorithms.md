@@ -35,23 +35,23 @@ Graphs can be represented in two common ways:
 ## 2. Visual / Example
 
 Example Graph:
-
+```python
 A ----- B
 |       |
 |       |
 C ----- D
-
+```
 Adjacency List Representation:
 
-
+```python
 A → B, C
 B → A, D
 C → A, D
 D → B, C
-
+```
 
 Adjacency Matrix Representation:
-
+```python
 A B C D
 
 A [ 0 1 1 0 ]
@@ -59,7 +59,7 @@ B [ 1 0 0 1 ]
 C [ 1 0 0 1 ]
 D [ 0 1 1 0 ]
 
-
+```
 Graphs can be:
 
 - **Directed** (edges have direction)
