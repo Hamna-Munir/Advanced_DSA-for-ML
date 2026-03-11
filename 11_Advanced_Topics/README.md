@@ -113,11 +113,11 @@ Consistent practice will improve **algorithm design skills and computational thi
 ---
 
 ## What’s Next
-After completing this module, you should focus on:
+After completing this module, continue to:
 
-**Advanced System Design and Large-Scale Algorithms**
+**ML Application of DSA**
 
-These topics apply algorithmic knowledge to real-world engineering systems.
+This module focuses on how **data structures and algorithms are used in real machine learning workflows**, including data processing, optimization, and scalable ML systems.
 
 ---
 
