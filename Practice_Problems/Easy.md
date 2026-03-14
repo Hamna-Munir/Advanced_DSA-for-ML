@@ -178,7 +178,9 @@ print(count_even(nums))
 ```python
 3
 ```
-### Goal
+---
+
+## Goal
 
 These problems help build strong foundational programming skills and introduce basic algorithmic thinking used in more advanced data structure problems.
 
