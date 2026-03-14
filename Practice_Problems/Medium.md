@@ -240,7 +240,9 @@ print(top_k_frequent(nums, k))
 ```python
 [1, 2]
 ```
-### Goal
+---
+
+## Goal
 
 These problems strengthen understanding of efficient algorithms, data structures, and problem-solving strategies required for technical interviews and real-world software development.
 
