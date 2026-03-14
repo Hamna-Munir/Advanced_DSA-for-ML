@@ -269,10 +269,11 @@ print(tsp(graph))
 
 These problems help develop advanced algorithmic thinking, optimization strategies, and deep understanding of complex data structures.
 
+Solving hard problems prepares learners for technical interviews, competitive programming, and real-world algorithmic challenges.
+
 ---
 
 **Author:**  
 Hamna Munir
 
 
-Solving hard problems prepares learners for technical interviews, competitive programming, and real-world algorithmic challenges.
