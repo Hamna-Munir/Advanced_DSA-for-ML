@@ -265,7 +265,8 @@ print(tsp(graph))
 ```python
 80
 ```
-### Goal
+---
+## Goal
 
 These problems help develop advanced algorithmic thinking, optimization strategies, and deep understanding of complex data structures.
 
